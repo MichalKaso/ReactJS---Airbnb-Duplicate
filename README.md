@@ -1,4 +1,4 @@
-# ReactJS Airbnb Website Diplicate
+# ReactJS Airbnb Website Duplicate
 
 **LIVE DEMO: https://tiny-moxie-d9718e.netlify.app/
 
