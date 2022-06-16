@@ -1,6 +1,6 @@
 
 
-export default [
+ const data = [
     {
         id: 1,
         title: "Life Lessons with Katie Zaferes",
@@ -14,6 +14,7 @@ export default [
         location: "Online",
         openSpots: 0,
     },
+
     {
         id: 2,
         title: "Learn Wedding Photography",
@@ -41,3 +42,5 @@ export default [
         openSpots: 3,
     }
 ]
+
+export default data;
